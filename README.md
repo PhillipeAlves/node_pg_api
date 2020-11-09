@@ -237,7 +237,7 @@ $ git push heroku master
 
 ### `1`
 
-### Clone the project to your local directory.
+### Clone the project to your local directory
 
 ```
 $ git clone https://github.com/PhillipeAlves/node_pg_api.git cd node_pg_api
