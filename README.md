@@ -5,6 +5,8 @@
 
 ### `1`
 
+### Create a squema
+
 On your root directory create a directory called `db`. 
 
 Inside of the `db` directory touch a file called `schema.sql`.
