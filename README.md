@@ -143,9 +143,8 @@ web: npm start
 ### Create a .gitignore file
 
 ```
-/node_modules
-.DS_Store
-/\*.env
+node_modules
+config/config.env
 ```
 ---
 
