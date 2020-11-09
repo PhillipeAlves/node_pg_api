@@ -1,4 +1,4 @@
-# POSTGRES in RUBY
+# POSTGRES in NODE.JS
 
 >>>## Steps to create a DB
 
