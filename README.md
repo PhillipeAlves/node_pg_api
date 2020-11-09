@@ -242,7 +242,6 @@ $ git push heroku master
 
 ```
 $ git clone https://github.com/PhillipeAlves/node_pg_api.git cd node_pg_api
- 
 ```
 ---
 
