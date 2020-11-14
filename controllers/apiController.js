@@ -1,7 +1,7 @@
 const { pool } = require("../config/db");
 
 module.exports = {
-  
+
   // ===( GET )=== //
   readData: (req, res) => {
     pool.query(
@@ -11,7 +11,9 @@ module.exports = {
         if (error) {
           throw error;
         }
-        res.status(200).json({ status: 200, data: results.rows });
+        res
+          .status(200)
+          .json({ status: 200, data: results.rows });
     });
   },
 
