@@ -1,6 +1,7 @@
 const { pool } = require("../config/db");
 
 module.exports = {
+  
   // ===( GET )=== //
   readData: (req, res) => {
     pool.query(
