@@ -4,7 +4,7 @@ const cors = require("cors");
 const bodyParser = require("body-parser");
 const {
   createData, //  C
-  readData, //  R
+  readData,   //  R
   updateData, //  U
   deleteData, //  D
 } = require("./controllers/apiController");
