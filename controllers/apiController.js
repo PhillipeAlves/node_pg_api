@@ -65,5 +65,5 @@ module.exports = {
         .status(200)
         .send({ status: 200, message: `Data deleted successfully.`, id: id });
     });
-  },
+  }
 };
